@@ -1,0 +1,6 @@
+renderDistance:4
+biomeBlendRadius:1
+gamma:1.0
+autoJump:false
+operatorItemsTab:true
+entityShadows:false
